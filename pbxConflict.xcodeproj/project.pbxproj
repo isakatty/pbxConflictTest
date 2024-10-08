@@ -51,8 +51,8 @@
 		C90AC7942CB4CD4A00C2710F /* pbxConflict */ = {
 			isa = PBXGroup;
 			children = (
+				C97B6B652CB4D1B800F9FF46 /* paik */,
 				C90AC7952CB4CD4A00C2710F /* pbxConflictApp.swift */,
-				C90AC7972CB4CD4A00C2710F /* ContentView.swift */,
 				C90AC7992CB4CD4A00C2710F /* Assets.xcassets */,
 				C90AC79B2CB4CD4A00C2710F /* Preview Content */,
 			);
@@ -65,6 +65,14 @@
 				C90AC79C2CB4CD4A00C2710F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C97B6B652CB4D1B800F9FF46 /* paik */ = {
+			isa = PBXGroup;
+			children = (
+				C90AC7972CB4CD4A00C2710F /* ContentView.swift */,
+			);
+			path = paik;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
